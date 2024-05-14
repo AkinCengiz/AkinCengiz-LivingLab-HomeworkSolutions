@@ -1,0 +1,10 @@
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\bin\Debug\BolunebilenSayilar.exe.config
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\bin\Debug\BolunebilenSayilar.exe
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\bin\Debug\BolunebilenSayilar.pdb
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\obj\Debug\BolunebilenSayilar.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\obj\Debug\BolunebilenSayilar.Form1.resources
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\obj\Debug\BolunebilenSayilar.Properties.Resources.resources
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\obj\Debug\BolunebilenSayilar.csproj.GenerateResource.cache
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\obj\Debug\BolunebilenSayilar.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\obj\Debug\BolunebilenSayilar.exe
+C:\Users\akinc\source\repos\LivingLab\HomeWork\BolunebilenSayilar\BolunebilenSayilar\obj\Debug\BolunebilenSayilar.pdb
